@@ -1,5 +1,5 @@
 -->Developed a secure login form using Spring MVC, implementing backend logic and frontend views.
--->Configured Spring MVC with Java-based setup for view resolution and resource management.
+--> Configured Spring MVC with Java-based setup for view resolution and resource management.
 -->Created a User model and login controller to handle authentica- tion and routing
 -->Designed JSP views for user interaction and feedback.
 -->Technologies: Spring MVC, JSP, Java
